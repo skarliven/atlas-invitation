@@ -43,6 +43,7 @@ body {
     color: #272142;
     font-size: 38px;
     line-height: 48px;
+    font-family: 'Lobster', cursive;
   }
   body.dark h1 {
     color: #d3cde0;
